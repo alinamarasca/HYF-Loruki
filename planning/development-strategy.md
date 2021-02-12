@@ -100,22 +100,23 @@
 - hover effect on cards - go up on Home page menu (issue)
 - hover effect on sub-menu - bold, chosen - blue (issue)
 
----
+## Supported languages be linked to respective official websites
 
-## Could-Haves
+**HTML**
+cards get links a href to websites (issue)
 
-12. As a **user** I want supported languages icons to be linked to their respective official websites.
+## Social networks icons.
 
-- [ ] Given when user clicks on a language icon it redirects him to the respective official website.
-- [ ] > HTML cards get links a href to websites
+**HTML**
 
-13. As a **visitor** I want social networks icons.
+- favicons with links on footer of every page (issue)
 
-- [ ] Given social network icons so that they connect Loruki through social network. Mayuri
-  > HTML favicons with attached links
-  > CSS favicons in-line block footer
+**CSS**
 
-14. As a **visitor** I want a favicon to easily recognize the webpage in my browser. Mayuri
+- styling (issue)
 
-- [ ] Given a blue "L" favicon.
-      HTML favicon in header
+## Favicon
+
+**HTML**
+
+- favicon link
